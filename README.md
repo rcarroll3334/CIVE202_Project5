@@ -6,9 +6,9 @@ UMass Amherst Water Research Team
 ---
 
 ## Course Information
-**Course:** CIVE 202 – Civil Engineering Analysis II  
-**University:** University of Nebraska–Lincoln  
-**Semester:** Spring 2026  
+CIVE 202 – Civil Engineering Analysis II  
+University of Nebraska–Lincoln  
+Spring 2026  
 
 ---
 
